@@ -10,7 +10,7 @@
 ## 🚀 Projects
 
 ### **Web Scraper**  
-[GitHub](https://github.com/MarquisPierre/Web-Scraper) | [Live Demo](#)  
+[GitHub](https://github.com/MarquisPierre/Web-Scraper) | [Live Demo](web-scraper-flame-one.vercel.app)  
 
 **Tech:** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 - Automated Amazon price tracking with Cron jobs  
