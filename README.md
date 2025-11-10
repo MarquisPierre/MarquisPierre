@@ -1,5 +1,5 @@
-# Hi, I'm Marquis Pierre 👋
-Computer Science graduate passionate about building full-stack web apps that solve real-world problems. I enjoy writing clean, efficient code and collaborating with teams.
+# Marquis Pierre 
+
 
 ---
 
