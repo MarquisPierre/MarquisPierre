@@ -7,7 +7,7 @@ Computer Science graduate passionate about building full-stack web apps that sol
 
 ### **Web Scraper**  
 [GitHub](https://github.com/MarquisPierre/your-web-scraper) | [Live Demo](#)  
-![Web Scraper](https://via.placeholder.com/500x200?text=Web+Scraper)  
+
 **Tech:** ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 - Automated Amazon price tracking with Cron jobs  
 - Email alerts via Nodemailer  
