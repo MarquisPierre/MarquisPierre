@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Marquis Pierre 👋
+# Marquis Pierre 
 
 **Full-stack developer building real-time web applications**
 
