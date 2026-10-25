@@ -11,7 +11,7 @@
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Projects
 
 ### 💬 [NodeSync](https://github.com/MarquisPierre/NodeSync)
 **A full-stack, real-time chat app inspired by Discord: text, direct messages, voice, video, and screen sharing in one place.**
@@ -27,6 +27,18 @@
 - **Redesigned the DM system** and migrated existing data to the new schema with no history lost
 - **Server-side authorization** on every route, plus role-based permissions
 
+### 🛒 [Web Scraper](https://github.com/MarquisPierre/Web-Scraper)
+**Amazon price tracker that monitors products and emails users when prices change.**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://web-scraper-flame-one.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarquisPierre/Web-Scraper)
+
+**Tech:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+- Automated Amazon price tracking with scheduled cron jobs
+- Email alerts via Nodemailer
+- Responsive UI
+
 ---
 
 ## 💻 Skills
@@ -35,19 +47,3 @@
 **Frameworks/Libraries:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
 
 **Databases & Tools:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)  
-
----
-
-## 🚀 More Projects
-
-### 🛒 [Web Scraper](https://github.com/MarquisPierre/Web-Scraper)
-**Amazon price tracker that monitors products and emails users when prices change.**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://web-scraper-flame-one.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MarquisPierre/Web-Scraper)
-
-**Tech:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- Automated Amazon price tracking with scheduled cron jobs
-- Email alerts via Nodemailer
-- Responsive UI
