@@ -19,7 +19,11 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-yomipop.vercel.app-C8352A?style=for-the-badge)](https://yomipop.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarquisPierre/YomiPop)
 [![CI](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml/badge.svg)](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml)
-**Try it:** sign in at [yomipop.vercel.app](https://yomipop.vercel.app/sign-in) with `marquispierre27+demo@gmail.com` / `demoguy123`. Sample decks are ready to review, no extension needed.
+[![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Sign_in-C8352A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yomipop.vercel.app/sign-in)
+
+> 🔑 **Demo login:** `marquispierre27+demo@gmail.com` · `demoguy123`
+> Sample decks are ready to review, no extension needed.
+
 
 <img src="https://raw.githubusercontent.com/MarquisPierre/YomiPop/main/docs/demo.gif" alt="Hovering a Japanese word on NHK News, then building a card with an AI sentence and a picture" width="700">
 
