@@ -18,14 +18,12 @@ New York, NY · B.S. Computer Science, Lehman College (CUNY) · Open to junior s
 ### 📚 [YomiPop](https://github.com/MarquisPierre/YomiPop)
 **A Japanese pop-up dictionary for Chrome, published on the Chrome Web Store, plus a flashcard web app: hover any word on any site, save it as a card with an AI sentence, picture and voice, then review it with spaced repetition.**
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Add_to_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/yomipop/ijooliheidehdicjpmnhhaiioajlmgmj)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-yomipop.vercel.app-C8352A?style=for-the-badge)](https://yomipop.vercel.app)
-[![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Sign_in-C8352A?style=for-the-badge&logo=keycdn&logoColor=white)](https://yomipop.vercel.app/sign-in)
+[![Add to Chrome](https://img.shields.io/badge/Add_to_Chrome-Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/yomipop/ijooliheidehdicjpmnhhaiioajlmgmj)
+[![Open the website](https://img.shields.io/badge/Open_the_website-yomipop.vercel.app-C8352A?style=for-the-badge)](https://yomipop.vercel.app)
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarquisPierre/YomiPop)
 [![CI](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml/badge.svg)](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml)
 
-> 🔑 **Demo login:** `marquispierre27+demo@gmail.com` · `demoguy123`
-> Sample decks are ready to review on the website. Install the extension to save your own words.
+<sub>🔑 No sign-up needed: log in with `marquispierre27+demo@gmail.com` / `demoguy123` to try the sample decks.</sub>
 
 <img src="https://raw.githubusercontent.com/MarquisPierre/YomiPop/main/docs/demo.gif" alt="Hovering a Japanese word on NHK News, then building a card with an AI sentence and a picture" width="700">
 
