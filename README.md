@@ -23,7 +23,7 @@ New York, NY · B.S. Computer Science, Lehman College (CUNY) · Open to junior s
 [![Source Code](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarquisPierre/YomiPop)
 [![CI](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml/badge.svg)](https://github.com/MarquisPierre/YomiPop/actions/workflows/ci.yml)
 
-<sub>🔑 No sign-up needed: log in with `marquispierre27+demo@gmail.com` / `demoguy123` to try the sample decks.</sub>
+🔑 **No sign-up needed:** log in with `marquispierre27+demo@gmail.com` / `demoguy123` to try the sample decks.
 
 <img src="https://raw.githubusercontent.com/MarquisPierre/YomiPop/main/docs/demo.gif" alt="Hovering a Japanese word on NHK News, then building a card with an AI sentence and a picture" width="700">
 
